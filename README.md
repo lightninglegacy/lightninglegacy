@@ -51,9 +51,7 @@
 <div>
   <img src="https://github.com/user-attachments/assets/650bbabf-d90f-4d8d-b0e6-e7eb0954cf1d" align="left" width="300">
 
-  <h3>
-    $\color{#A9B9D8}{\textsf{title}}$
-  </h3>
+  
 
   <p>
     $\color{#C5B8E0}{\textsf{\underline{Fictosexual}}}$
