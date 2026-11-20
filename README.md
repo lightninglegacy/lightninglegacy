@@ -54,13 +54,15 @@
 
   <p>
     $\color{#C5B8E0}{\textsf{\underline{F̲i̲c̲t̲o̲sexual}}}$
-    $\color{#D3A8C8}{\textsf{\underline{ㅤㅤㅤㅤ𝐁oy}}}$
-    $\color{#E0D6F0}{\textsf{ㅤㅤㅤㅤ Straight۪𓈒 ຼ ͜𓐇ㅤ}}$
+    $\color{#D3A8C8}{\textsf{\underline{ㅤㅤཧོㅤㅤ}}}$
+    $\color{#E0D6F0}{\textsf{ㅤㅤㅤㅤ Straightㅤ}}$
   </p>
 
   <p>
-    $\color{#A9B9D8}{\textsf{ㅤㅤㅤS̲h̲i̲p̲s̲ㅤㅤ  ㅤ𝑱ayaㅤㅤOnly ㅤㅤㅤㅤㅤ}}$ 
-    $\color{#C5B8E0}{\textsf{fandoms}}$ ·
+    $\color{#A9B9D8}{\textsf{ㅤㅤㅤS̲h̲i̲p̲s̲ㅤㅤ  ㅤ𝑱ayaㅤㅤOnly ㅤㅤ}}$ 
+
+   $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤ𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 
+In  ݁♪ }}$ ·
     $\color{#D3A8C8}{\textsf{comforts}}$
   </p>
 
