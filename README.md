@@ -26,9 +26,9 @@
   </p>
 
   <p>
-    $\color{#D3A8C8}{\textsf{artist}}$ ·
-    $\color{#A9B9D8}{\textsf{ninjago}}$ ·
-    $\color{#C5B8E0}{\textsf{roblox}}$
+    $\color{#D3A8C8}{\textsf{artist}}$ 𓏵
+    $\color{#A9B9D8}{\textsf{ㅤㅤㅤㅤ𝓝𝓲𝓷jago}}$ ·
+    $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤFndm Iwc}}$
   </p>
 
   <p>
@@ -54,7 +54,7 @@
 
   <p>
     $\color{#C5B8E0}{\textsf{\underline{F̲i̲c̲t̲o̲sexual}}}$
-    $\color{#D3A8C8}{\textsf{\underline{ㅤㅤㅤㅤboy}}}$
+    $\color{#D3A8C8}{\textsf{\underline{ㅤㅤㅤㅤ𝐁oy}}}$
     $\color{#E0D6F0}{\textsf{ㅤㅤㅤㅤ Straight۪𓈒 ຼ ͜𓐇ㅤ}}$
   </p>
 
