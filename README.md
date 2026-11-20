@@ -61,13 +61,13 @@
     $\color{#A9B9D8}{\textsf{ㅤℱ𝒾𝒸𝓉ℴ𝓈ℯ𝓍𝓊𝒶𝓁 
 ㅤ}}$
     $\color{#D3A8C8}{\textsf{ㅤㅤ▀▄▀▄ }}$
-    $\color{#E0D6F0}{\textsf{ li𝓚𝓮𝓪
- ㅤ 𝄂𝄚𝅦𝄚𝅄ㅤㅤ ⱼₒₖᵢₙ𝑔ㅤㅤㅤᛝ}}$
+    $\color{#E0D6F0}{\textsf{ ㅤㅤli𝓚𝓮𝓪ㅤㅤ
+ ㅤ 𝄂𝄚𝅦𝄚𝅄ㅤㅤㅤㅤ ⱼₒₖᵢₙ𝑔ㅤㅤㅤㅤㅤᛝ}}$
   </p>
 
   <p>
-    $\color{#D3A8C8}{\textsf{artist}}$ 𓏵
-    $\color{#A9B9D8}{\textsf{ㅤㅤㅤㅤ𝓝𝓲𝓷jago}}$ ·
+    $\color{#D3A8C8}{\textsf{F̲a̲n̲d̲o̲m̲s̲}}$ 𓏵
+    $\color{#A9B9D8}{\textsf{ㅤㅤㅤㅤ𝘚𝘬𝘶𝘭𝘭Girl}}$ ·
     $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤFndm Iwc}}$
   </p>
 
