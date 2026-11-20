@@ -95,8 +95,12 @@
 
 </div>
 
+
 <div align="center">
   <a href="https://p1nkpo1son.straw.page">
-    <img src="https://github.com/user-attachments/assets/a6016c08-5e94-46f6-803a-3be1d4887622" align="center" width="100"/>
+    <img src="https://github.com/user-attachments/assets/a6016c08-5e94-46f6-803a-3be1d4887622" width="100"/>
+  </a>
+  <a href="https://p1nkpo1son.atabook.org/">
+    <img src="https://github.com/user-attachments/assets/d3e7bc63-5343-46d6-bf6e-77e5ca9eca8a" width="100"/>
   </a>
 </div>
