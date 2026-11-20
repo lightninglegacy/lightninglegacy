@@ -42,8 +42,7 @@
 <div align="center">
 
   <p>
-    <img src="https://github.com/user-attachments/assets/4851515e-e040-4566-ac02-3aefa19dfcaa" align="right" width="300">
-
+  
   </p>
 
 </div>
