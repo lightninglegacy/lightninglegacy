@@ -85,11 +85,11 @@
 
   <p>
     $\color{#D3A8C8}{\textsf{♡}}$
-    $\color{#A9B9D8}{\textsf{Ponytown}}$
+    $\color{#A9B9D8}{\textsf{thanks}}$
     $\color{#E0D6F0}{\textsf{·}}$
-    $\color{#C5B8E0}{\textsf{art}}$
+    $\color{#C5B8E0}{\textsf{for}}$
     $\color{#E0D6F0}{\textsf{·}}$
-    $\color{#D3A8C8}{\textsf{fandom}}$
+    $\color{#D3A8C8}{\textsf{reading!}}$
     $\color{#A9B9D8}{\textsf{♡}}$
   </p>
 
