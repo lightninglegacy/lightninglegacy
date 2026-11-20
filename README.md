@@ -53,14 +53,13 @@
   
 
   <p>
-    h3>
-    $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤㅤ \underline{i Am , ,ㅤㅤ𓏵 .} }}$
+    $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤㅤ \underline{i Am , ,ㅤㅤㅤ 𝄂𝄚𝅦𝄚𝅄ㅤ } }}$
   </h3>
  
   <p>
     $\color{#A9B9D8}{\textsf{ㅤℱ𝒾𝒸𝓉ℴ𝓈ℯ𝓍𝓊𝒶𝓁 
 ㅤ}}$
-      $\color{#D3A8C8}{\textsf{ㅤㅤstr𝐼𝑔𝒽𝓉 }}$
+      $\color{#D3A8C8}{\textsf{ㅤㅤཧོㅤㅤstr𝐼𝑔𝒽𝓉 }}$
 
   </p>
 
