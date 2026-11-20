@@ -3,10 +3,12 @@
   <p>
     $\color{#C5B8E0}{\textsf{ㅤᵗ᷒ᰰㅤㅤㅤ ׁ ׅ ㅤㅤㅤ𝑩𝒚𝒊 }}$
   
-  </p>
-
-  <p>
-    <img src="https://github.com/user-attachments/assets/820785af-2321-41eb-8c65-23b22e2f37cb" align="center" width="300"> 
+  </p
+    <div align="center">
+<img
+  src="https://komarev.com/ghpvc/?username=lightninglegacy&label=ninjago%27s%20folks&color=E0D6F0&style=flat-square"
+  alt="ninjago's folks⧽"
+/>  
 
   </p>
 
