@@ -60,14 +60,14 @@
   <p>
     $\color{#A9B9D8}{\textsf{ㅤℱ𝒾𝒸𝓉ℴ𝓈ℯ𝓍𝓊𝒶𝓁 
 ㅤ}}$
-      $\color{#D3A8C8}{\textsf{ㅤㅤ▀▄▀▄ }}$
+      $\color{#D3A8C8}{\textsf{ㅤㅤstr𝐼𝑔𝒽𝓉 }}$
 
   </p>
 
   <p>
       $\color{#D3A8C8}{\textsf{F̲a̲n̲d̲o̲m̲s̲}}$ 𓏵
       $\color{#A9B9D8}{\textsf{ㅤㅤㅤㅤ𝘚𝘬𝘶𝘭𝘭Girl}}$ ·
-      $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤFndm Iwc}}$
+      $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤ𝑶𝒏𝒆ㅤ piece}}$
   </p>
 
   <p>
