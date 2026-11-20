@@ -64,7 +64,7 @@
   </p>
 
   <p>
-      $\color{#D3A8C8}{\textsf{F̲a̲n̲d̲o̲m̲s̲}}$ 𓏵
+      $\color{#D3A8C8}{\textsf{F̲a̲n̲d̲o̲m̲s̲}}$ㅤㅤ꒱
       $\color{#A9B9D8}{\textsf{ㅤㅤㅤㅤ𝘚𝘬𝘶𝘭𝘭Girls}}$ ·
       $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤ𝑶𝒏𝒆ㅤ piece}}$
   </p>
