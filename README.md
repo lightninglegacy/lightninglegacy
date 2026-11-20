@@ -65,12 +65,12 @@
 
   <p>
       $\color{#D3A8C8}{\textsf{F̲a̲n̲d̲o̲m̲s̲}}$ 𓏵
-      $\color{#A9B9D8}{\textsf{ㅤㅤㅤㅤ𝘚𝘬𝘶𝘭𝘭Girl}}$ ·
+      $\color{#A9B9D8}{\textsf{ㅤㅤㅤㅤ𝘚𝘬𝘶𝘭𝘭Girls}}$ ·
       $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤ𝑶𝒏𝒆ㅤ piece}}$
   </p>
 
   <p>
-    $\color{#E0D6F0}{\textsf{\textit{ㅤㅤㅤ愛ㅤㅤㅤNya's 𝓚𝓲𝓼𝓼erㅤㅤㅤ✦ㅤㅤㅤㅤ}}}$
+    $\color{#E0D6F0}{\textsf{\textit{ㅤㅤㅤ̣̣ 𓏫   ͜͝ | ྀིㅤㅤㅤ𝐁𝐚𝐬icㅤㅤㅤ꒱ㅤㅤ𝘋𝘯𝘪ㅤㅤ}}}$
   </p>
 
 </div>
