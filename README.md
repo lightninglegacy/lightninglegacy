@@ -1,9 +1,8 @@
 <div align="center">
 
   <p>
-    $\color{#C5B8E0}{\textsf{୨୧}}$
-    $\color{#D3A8C8}{\textsf{\textbf{JAY WALKER}}}$
-    $\color{#A9B9D8}{\textsf{୨୧}}$
+    $\color{#C5B8E0}{\textsf{𖥻 ׁ ׅ  Jay Walker ! ﹒  ◡◡}}$
+  
   </p>
 
   <p>
