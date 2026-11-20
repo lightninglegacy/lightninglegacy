@@ -53,21 +53,24 @@
   
 
   <p>
-    $\color{#C5B8E0}{\textsf{\underline{F̲i̲c̲t̲o̲sexual}}}$
-    $\color{#D3A8C8}{\textsf{\underline{ㅤㅤཧོㅤㅤ}}}$
-    $\color{#E0D6F0}{\textsf{ㅤㅤㅤㅤ Straightㅤ}}$
+    h3>
+    $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤㅤ \underline{𝐼𝓃𝓉erestsㅤㅤᨳଓ .} }}$
+  </h3>
+
+  <p>
+    $\color{#A9B9D8}{\textsf{jay 𝒲𝒶𝓁ker}}$
+    $\color{#D3A8C8}{\textsf{ㅤㅤ𝄞⋆ ㅤ}}$
+    $\color{#E0D6F0}{\textsf{𓊆 ℋℯ ㅤֺּׅ𓏽⑅ㅤ himㅤㅤㅤᛝ}}$
   </p>
 
   <p>
-    $\color{#A9B9D8}{\textsf{ㅤㅤㅤS̲h̲i̲p̲s̲ㅤㅤ  ㅤ𝑱ayaㅤㅤOnly ㅤㅤ}}$ 
-
-   $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤ𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 
-In  ݁♪ }}$ ·
-    $\color{#D3A8C8}{\textsf{comforts}}$
+    $\color{#D3A8C8}{\textsf{artist}}$ 𓏵
+    $\color{#A9B9D8}{\textsf{ㅤㅤㅤㅤ𝓝𝓲𝓷jago}}$ ·
+    $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤFndm Iwc}}$
   </p>
 
   <p>
-    $\color{#E0D6F0}{\textsf{\textit{do not copy my skins.}}}$
+    $\color{#E0D6F0}{\textsf{\textit{ㅤㅤㅤ愛ㅤㅤㅤNya's 𝓚𝓲𝓼𝓼erㅤㅤㅤ✦ㅤㅤㅤㅤ}}}$
   </p>
 
 </div>
