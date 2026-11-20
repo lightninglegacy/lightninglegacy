@@ -80,7 +80,7 @@
 <div align="center">
 
   <p>
-    $\color{#C5B8E0}{\textsf{୨୧ ─────── ୨୧}}$
+    <img src="https://github.com/user-attachments/assets/820785af-2321-41eb-8c65-23b22e2f37cb" align="center" width="300"> 
   </p>
 
   <p>
