@@ -54,13 +54,15 @@
 
   <p>
     h3>
-    $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤㅤ \underline{𝐼𝓃𝓉erestsㅤㅤᨳଓ .} }}$
+    $\color{#C5B8E0}{\textsf{ㅤㅤㅤㅤㅤㅤ \underline{i Am , ,ㅤㅤ𓏵 .} }}$
   </h3>
-
+Fictosexual 
   <p>
-    $\color{#A9B9D8}{\textsf{jay 𝒲𝒶𝓁ker}}$
-    $\color{#D3A8C8}{\textsf{ㅤㅤ𝄞⋆ ㅤ}}$
-    $\color{#E0D6F0}{\textsf{𓊆 ℋℯ ㅤֺּׅ𓏽⑅ㅤ himㅤㅤㅤᛝ}}$
+    $\color{#A9B9D8}{\textsf{ㅤℱ𝒾𝒸𝓉ℴ𝓈ℯ𝓍𝓊𝒶𝓁 
+ㅤ}}$
+    $\color{#D3A8C8}{\textsf{ㅤㅤ▀▄▀▄▀▄ ㅤ}}$
+    $\color{#E0D6F0}{\textsf{ li𝓚𝓮𝓪
+ ㅤ 𝄂𝄚𝅦𝄚𝅄ㅤㅤ ⱼₒₖᵢₙ𝑔ㅤㅤㅤᛝ}}$
   </p>
 
   <p>
