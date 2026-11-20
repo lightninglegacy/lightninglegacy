@@ -82,7 +82,7 @@
 
   <p>
     $\color{#D3A8C8}{\textsf{♡}}$
-    $\color{#A9B9D8}{\textsf{pinterest}}$
+    $\color{#A9B9D8}{\textsf{Ponytown}}$
     $\color{#E0D6F0}{\textsf{·}}$
     $\color{#C5B8E0}{\textsf{art}}$
     $\color{#E0D6F0}{\textsf{·}}$
