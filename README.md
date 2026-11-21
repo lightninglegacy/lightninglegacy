@@ -61,7 +61,7 @@
   <p>
     $\color{#A9B9D8}{\textsf{ㅤℱ𝒾𝒸𝓉ℴ𝓈ℯ𝓍𝓊𝒶𝓁 
 ㅤ}}$
-      $\color{#D3A8C8}{\textsf{ㅤㅤཧོㅤㅤstr𝐼𝑔𝒽𝓉 }}$
+      $\color{#D3A8C8}{\textsf{ㅤㅤཧོㅤㅤ20 y . o }}$
 
   </p>
 
